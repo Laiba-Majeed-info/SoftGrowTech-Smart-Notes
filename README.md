@@ -1,4 +1,4 @@
-# untitled3
+# Smart_Notes_App
 
 A new Flutter project.
 
